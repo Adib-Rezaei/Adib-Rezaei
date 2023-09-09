@@ -3,6 +3,8 @@
 <!--
 **Adib-Rezaei/Adib-Rezaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="justify" style="font-family:Arial, sans-serif;">
+I am Adib Rezaei Shahmirzadi, currently a senior student pursuing a degree in computer engineering at the University of Tehran. My passion lies in constantly expanding my skill set and seizing novel opportunities.
+</p>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,go,java,py,c,cpp,nodejs,git,css,html,tensorflow,pytorch,mysql,bash,vscode&perline=8)](https://skillicons.dev)
+
