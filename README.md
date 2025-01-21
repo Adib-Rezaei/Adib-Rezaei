@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="justify" style="font-family:Arial, sans-serif;">
-I am Adib Rezaei Shahmirzadi, currently a senior student pursuing a degree in computer engineering at the University of Tehran. My passion lies in constantly expanding my skill set and seizing novel opportunities.
+I am Adib Rezaei Shahmirzadi, currently a PhD student in Computer Science at Virginia Tech.
 </p>
 <br>
 
